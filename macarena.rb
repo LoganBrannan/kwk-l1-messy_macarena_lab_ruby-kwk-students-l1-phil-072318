@@ -14,7 +14,7 @@ puts "Step 2: Left arm out in front of you, palm facing down."
 # Step 3:FIXME
 puts "Step 3: Place your right hand on your left shoulder."
 
-# Step 4: FIXME
+# Step 4: GOOD
 puts "Step 4: Turn your left palm up."
 
 # Step 5: FIXME
